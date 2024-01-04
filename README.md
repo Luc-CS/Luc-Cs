@@ -1,18 +1,20 @@
 ### Lucas Caceres | Desarrollador de SoftWare 😊
 
-¿En que me especializo?
+## ¿En que me especializo?
 
 . Aplicaciones de escritorio y web sobre .NET Framework con C#.
 
 . Scripts con T-SQL sobre Microsoft SQL Server para utilizar bases de datos.
 
-¿Proyectos en progreso? 🚀
+
+## ¿Proyectos en progreso? 🚀
 
 . Blog personal sobre programación.
 
 . Aplicación de escritorio para la gestion información sobre animales rescatados y el seguimiento de adopción para un refugio de animales.
 
-Me gusta experimentar y desarrollar: ⬇️
+
+## Me gusta experimentar y desarrollar: ⬇️
 
 . Aplicaciones web con Astro 🪐.
 
