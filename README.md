@@ -17,3 +17,5 @@
 . Programas de consola con fines educativos con SFML con C++ 🔵.
 . Scripts en PowerShell para automatizar procesos.	
 
+holaaaa
+fajfjaf
