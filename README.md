@@ -3,11 +3,11 @@
 ### ¿En que me especializo?✨
 
 . Aplicaciones de escritorio sobre .NET Framework con C#.
-. Aplicaciones de Consola Con C++.
+Aplicaciones de Consola Con C++.
 
 ### ¿Proyectos en progreso? 🚀
 
-. Blog personal sobre programación.
+. Blog personal sobre programación. 
 . Aplicación de escritorio para la gestion información sobre animales rescatados y el seguimiento de adopción para un refugio de animales.
 
 
