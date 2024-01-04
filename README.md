@@ -2,7 +2,7 @@
 
 ### ¿En que me especializo?✨
 
-. Aplicaciones de escritorio sobre .NET Framework con C#.
+. Aplicaciones de escritorio sobre .NET Framework con C#
 Aplicaciones de Consola Con C++.
 
 ### ¿Proyectos en progreso? 🚀
