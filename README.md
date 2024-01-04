@@ -12,10 +12,9 @@
 
 #### Me gusta experimentar y desarrollar: ⬇️
 
-. Aplicaciones web con Astro 🪐.
-. Plugins de juegos con Java ☕.
-. Programas de consola con fines educativos con SFML con C++ 🔵.
-. Scripts en PowerShell para automatizar procesos.	
+. Aplicaciones web con Astro 🪐.    
+. Plugins de juegos con Java ☕.    
+. Programas de consola con fines educativos con SFML con C++ 🔵.    
+. Scripts en PowerShell para automatizar procesos.	    
 
-holaaaa
-fajfjaf
+
