@@ -13,5 +13,5 @@
 
 . Plugins de juegos con Java ☕.    
 . Programas de consola con fines educativos con SFML con C++ 🔵.   
-. Generar Scripts de base de daots en SQL Server.
+. Generar Scripts de base de datos en SQL Server.
 
