@@ -1,18 +1,17 @@
-# Lucas Caceres | Desarrollador de SoftWare 😊
-### Estudiante avanzado de Programación y Sistemas Informáticos.
-#### ¿En que me especializo?✨
+## Lucas Caceres | Desarrollador de SoftWare 😊
 
-. Aplicaciones de escritorio sobre .NET Framework con C#.    
-. Aplicaciones de Consola Con C++.
+### Estudiante avanzado de Programación y Sistemas Informáticos.
+
+#### ¿En que me especializo?✨
+* Aplicaciones de escritorio sobre .NET Framework con C#.    
+* Aplicaciones de Consola Con C++.
+* Scripts con SQL sobre Microsoft SQL Server para utilizar base de datos.
 
 #### ¿Proyectos en progreso? 🚀
-
-. Blog personal sobre programación.
+*Blog personal sobre programación.
 
 #### Me gusta experimentar y desarrollar: ⬇️
-
-. Plugins de juegos con Java ☕.    
-. Programas de consola con fines educativos con SFML con C++ 🔵.   
-. Generar Scripts de base de datos en SQL Server.
+* Programas de consola con fines educativos en C++ 🔵.
+* Videojuegos con la libreria SFML.
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-lucasCaceres-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-caceres-898b35275)
