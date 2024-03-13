@@ -8,7 +8,7 @@
 * Scripts con SQL sobre Microsoft SQL Server para utilizar base de datos.
 
 #### ¿Proyectos en progreso? 🚀
-*Blog personal sobre programación.
+* Blog personal sobre programación.
 
 #### Me gusta experimentar y desarrollar: ⬇️
 * Programas de consola con fines educativos en C++ 🔵.
