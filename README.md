@@ -15,3 +15,4 @@
 * Videojuegos con la libreria SFML.
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-lucasCaceres-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-caceres-898b35275)
+(https://img.shields.io/badge/-CV-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)](https://docs.google.com/document/d/1xwVDII2uA9NgWHiYnwWqNbxYv1jbk9ZZAab5ULG5Nhc/edit?usp=sharing)
