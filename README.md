@@ -3,9 +3,10 @@
 ### Estudiante avanzado de Programación y Sistemas Informáticos.
 
 #### ¿En que me especializo?✨
-* Aplicaciones de escritorio sobre .NET Framework con C#.    
-* Aplicaciones de Consola Con C++.
-* Scripts con SQL sobre Microsoft SQL Server para utilizar base de datos.
+* Aplicaciones de escritorio sobre .NET Framework con C# y Visual Basic .NET.
+* Aplicaciones web en ASP .NET en C#.
+* Aplicaciones de Consola Con C++ y Java.
+* Scripts con SQL utilizando T-SQL sobre Microsoft SQL Server para utilizar base de datos.
 
 #### ¿Proyectos en progreso? 🚀
 * Blog personal sobre programación.
