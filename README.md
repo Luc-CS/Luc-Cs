@@ -1,20 +1,23 @@
-## Lucas Caceres | Desarrollador de SoftWare 😊
+## Lucas Caceres 😊
 
-### Estudiante avanzado de Programación y Sistemas Informáticos.
+### Estudiante avanzado de Data Science y Graduado de Tecnico Universitario en Programacion.
 
 #### ¿En que me especializo?✨
 * Aplicaciones de escritorio sobre .NET Framework con C# y Visual Basic .NET.
 * Aplicaciones web en ASP .NET en C#.
 * Aplicaciones de Consola Con C++ y Java.
 * Scripts con SQL utilizando T-SQL sobre Microsoft SQL Server para utilizar base de datos.
+* Manejar, Visualizar y Analizar grandes cantidades de Datos en Excel & Power BI.
 
 #### ¿Proyectos en progreso? 🚀
 * Blog personal sobre programación.
+* Desarrollar una pagina web para un refugio de animales.
 
 #### Me gusta experimentar y desarrollar: ⬇️
 * Programas de consola con fines educativos en C++ 🔵.
-* Videojuegos con la libreria SFML.
-* paginas web con ASP.NET con un sistema CRUD
+* paginas web con ASP.NET con un sistema CRUD.
+* Automatizar procesos con Power Automate.
+* Crear apps con power apps.
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-lucasCaceres-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-caceres-898b35275)
 [![CV Badge](https://img.shields.io/badge/-CV-d20001?style=flat&labelColor=d20001&logo=DocuSign&logoColor=white)](https://docs.google.com/document/d/1xwVDII2uA9NgWHiYnwWqNbxYv1jbk9ZZAab5ULG5Nhc/edit?usp=sharing)
